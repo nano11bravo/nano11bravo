@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning K...
 - 💞️ I’m looking to collaborate on C...
 - 📫 How to reach me nano11bravo#2222
-- 
 
 <!---
 nano11bravo/nano11bravo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
