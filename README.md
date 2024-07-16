@@ -19,5 +19,5 @@ also has an active FiveM server which is currently under development. More at ht
   
 Mew Squad
 ----------
-One of the squads that play in Impulse101 and also play competitively in a variety of EGL-registered games.  
+Server hosting and support teams for gamers who just want to game. 
 https://www.mewsquad.com
