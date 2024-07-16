@@ -14,10 +14,13 @@ Find out more at https://www.seven-labs.com
 Impulse101
 ----------
 The premier online gaming community for making new friends and finding others to compete with. Impulse 101
-also has an active FiveM server which is currently under development. More at https://www.impulse101.cc
+also has an active FiveM server which is currently under development. 
+  
+More at https://www.impulse101.cc
   
   
 Mew Squad
 ----------
 Server hosting and support teams for gamers who just want to game. 
+  
 https://www.mewsquad.com
